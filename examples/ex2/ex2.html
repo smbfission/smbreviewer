@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap" rel="stylesheet">
+  <title>Review us</title>
+</head>
+
+<body>
+  <h1 class="text-align" style="margin: 10px;"> Review Form</h1>
+  <div class="fullbody flexi">
+    <form action="" class="formdetails flex">
+      <span class="logopic">
+
+        <img src="images/logo.png" class="logo" alt="">
+      </span>
+      <h2 class="start-info">
+        Can You Please Leave Us a Review?</h2>
+      <h4 class="start-info">
+        Please describe in detail your experience with our organization, thanks so much!
+      </h4>
+      <span class="start">
+
+        <img id="formpic" src="images/user.png" alt="">
+        <span class="upload-part">
+          <input type="file" accept="image/*" name="profile" id="profile" onchange="loadFile()" style="display: none;">
+          <label for="profile" class="submitbutton" id="uploadani">Upload picture</label>
+          <label id="uploadan">Verify with <a href="#" style="text-decoration:none;color:rgb(74, 74, 250)"><i class="fa fa-facebook-f" style="font-size: 18px; margin: 5px; padding:5px;border: solid 1px rgb(74, 74, 250); border-radius: 3px; color: rgb(74, 74, 250);"></i></a></label>
+
+
+        </span>
+      </span>
+
+      <label for="username">Name <b>*</b></label>
+      <input type="text" id="username" onkeyup="loadtext(event)" required>
+
+
+      <label for="rating">Ratings</label>
+      <span id="rating">
+        <span class="fa fa-star fa-2x" onclick="ones()" id="onestar"></span><span class="fa fa-star fa-2x" onclick="twos()" id="twostar"></span>
+        <span class="fa fa-star fa-2x" onclick="threes()" id="threestar"></span>
+        <span class="fa fa-star fa-2x" onclick="fours()" id="fourstar"></span>
+        <span class="fa fa-star fa-2x" onclick="fives()" id="fivestar"></span>
+      </span>
+
+      <label for="userreview">Review</label>
+
+      <textarea id="userreview" name="review" onkeyup="loadreview()" rows="4" cols="50"></textarea>
+
+      <label for="useremail">Mail id:</label>
+      <input type="email" id="useremail" onkeyup="loadmail()" required>
+      <button type="submit" class="submitbutton margin">Submit</button>
+    </form>
+    <div class="flexi posi" style="display:flex;flex-direction: column; align-items:center;justify-content:center;">
+
+      <div class="profile">
+        <span>
+
+          <h2 class="text-align special-live">
+            <div class="dot"></div>Preview
+          </h2>
+        </span>
+        <span class="start">
+
+          <img id="profilepic" src="images/user.png" alt="">
+          <span class="themail">
+            <span>
+              <label for="userpreview">Name</label>
+              <p class="load" id="userpreview"> </p>
+            </span>
+
+            <span id="rating">
+              <span class="fa fa-star fa-2x" id="prevonestar"></span>
+              <span class="fa fa-star fa-2x" id="prevtwostar"></span>
+              <span class="fa fa-star fa-2x" id="prevthreestar"></span>
+              <span class="fa fa-star fa-2x" id="prevfourstar"></span>
+              <span class="fa fa-star fa-2x" id="prevfivestar"></span>
+            </span>
+          </span>
+
+        </span>
+
+        <span>
+          <label for="userreviewpreview">Review</label>
+          <p class="load" id="userreviewpreview"></p>
+        </span>
+        <span>
+          <label for="useremailpreview">Mail id</label>
+          <p class="load" id="useremailpreview"></p>
+        </span>
+      </div>
+      <div class="last-img ">
+        <img src="images/form.svg" class="form-img" alt="">
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

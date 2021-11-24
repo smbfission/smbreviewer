@@ -1,0 +1,325 @@
+<?php die; ?>
+Sun, 07 Apr 2019 07:03:07 +0000 Started.
+> Checking 'gk.php.txt' (FN: b0fdfbeb; FD: 00000000):
+-> No problems found.
+Sun, 07 Apr 2019 07:03:07 +0000 Finished.
+Sun, 07 Apr 2019 07:03:22 +0000 Started.
+> Checking 'install-astra (1).php' (FN: 38d4c395):
+-> Filetype blacklisted.
+Sun, 07 Apr 2019 07:03:22 +0000 Finished.
+Sun, 07 Apr 2019 07:04:39 +0000 Started.
+> Checking 'install-astra (1).php' (FN: 38d4c395):
+-> Filetype blacklisted.
+Sun, 07 Apr 2019 07:04:39 +0000 Finished.
+Sun, 07 Apr 2019 07:04:51 +0000 Started.
+> Checking 'install-astra (1).php' (FN: 38d4c395):
+-> Filetype blacklisted.
+Sun, 07 Apr 2019 07:04:51 +0000 Finished.
+Sun, 07 Apr 2019 07:05:38 +0000 Started.
+> Checking 'install-astra (1).php' (FN: 38d4c395):
+-> Filetype blacklisted.
+Sun, 07 Apr 2019 07:05:38 +0000 Finished.
+Sun, 07 Apr 2019 07:08:07 +0000 Started.
+> Checking 'install-astra (1).php' (FN: 38d4c395):
+-> Filetype blacklisted.
+Sun, 07 Apr 2019 07:08:07 +0000 Finished.
+Wed, 11 Mar 2020 01:42:19 -0500 Started.
+> Checking 'IMG_20200309_142030_334.jpg' (FN: 5ffe4e31; FD: 5ffe6b2e):
+-> No problems found.
+Wed, 11 Mar 2020 01:42:19 -0500 Finished.
+Mon, 16 Mar 2020 04:39:33 -0500 Started.
+> Checking 'smbreviews-review-nancy.jpg' (FN: 956bd066; FD: 8dd79ec6):
+-> No problems found.
+Mon, 16 Mar 2020 04:39:33 -0500 Finished.
+Mon, 16 Mar 2020 04:42:51 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 04:42:51 -0500 Finished.
+Mon, 16 Mar 2020 04:45:01 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 04:45:01 -0500 Finished.
+Mon, 16 Mar 2020 04:53:39 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 04:53:39 -0500 Finished.
+Mon, 16 Mar 2020 04:53:55 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 04:53:55 -0500 Finished.
+Mon, 16 Mar 2020 04:56:16 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 04:56:16 -0500 Finished.
+Mon, 16 Mar 2020 05:00:43 -0500 Started.
+> Checking 'smbreviewer-reviewee9.jpg' (FN: b72d7eaf; FD: a54952e9):
+-> No problems found.
+Mon, 16 Mar 2020 05:00:43 -0500 Finished.
+Mon, 16 Mar 2020 05:32:43 -0500 Started.
+> Checking 'background-img-smbfission-team.jpg' (FN: 595a017f; FD: 335c7f6d):
+-> No problems found.
+Mon, 16 Mar 2020 05:32:56 -0500 Finished.
+Mon, 16 Mar 2020 05:33:31 -0500 Started.
+> Checking 'local-website-conversion-optimization-hero3.jpg' (FN: b97f1864; FD: 7f4ee74f):
+-> No problems found.
+Mon, 16 Mar 2020 05:33:31 -0500 Finished.
+Mon, 16 Mar 2020 06:00:24 -0500 Started.
+> Checking 'local-author-book-hero1.jpg' (FN: d4e564c4; FD: ea975bd0):
+-> No problems found.
+Mon, 16 Mar 2020 06:00:24 -0500 Finished.
+Mon, 16 Mar 2020 06:55:33 -0500 Started.
+> Checking 'smbreviewer-reviewee7.jpg' (FN: 081dc0ce; FD: 85a87400):
+-> No problems found.
+Mon, 16 Mar 2020 06:55:33 -0500 Finished.
+Mon, 16 Mar 2020 06:56:19 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 06:56:19 -0500 Finished.
+Mon, 16 Mar 2020 06:56:49 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Mon, 16 Mar 2020 06:56:49 -0500 Finished.
+Mon, 16 Mar 2020 07:39:20 -0500 Started.
+> Checking 'reviewicon.jpg' (FN: d99a085e; FD: 8d2f0925):
+-> No problems found.
+Mon, 16 Mar 2020 07:39:20 -0500 Finished.
+Mon, 23 Mar 2020 05:22:05 -0500 Started.
+> Checking 'smbreviewer-reviewee3.jpg' (FN: fd9d660e; FD: c7f7a12a):
+-> No problems found.
+Mon, 23 Mar 2020 05:22:05 -0500 Finished.
+Mon, 23 Mar 2020 05:31:38 -0500 Started.
+> Checking 'smbreviewer-reviewee3.jpg' (FN: fd9d660e; FD: c7f7a12a):
+-> No problems found.
+Mon, 23 Mar 2020 05:31:38 -0500 Finished.
+Mon, 23 Mar 2020 05:32:15 -0500 Started.
+> Checking 'smbreviewer-reviewee3.jpg' (FN: fd9d660e; FD: c7f7a12a):
+-> No problems found.
+Mon, 23 Mar 2020 05:32:15 -0500 Finished.
+Thu, 26 Mar 2020 09:19:16 -0500 Started.
+> Checking 'smbreviewer-reviewee1.jpg' (FN: 875d356e; FD: 758ed80a):
+-> No problems found.
+Thu, 26 Mar 2020 09:19:16 -0500 Finished.
+Thu, 26 Mar 2020 09:19:58 -0500 Started.
+> Checking 'smbreviewer-reviewee2.jpg' (FN: c0fd4fbe; FD: 5e9db3f0):
+-> No problems found.
+Thu, 26 Mar 2020 09:19:58 -0500 Finished.
+Thu, 26 Mar 2020 09:26:41 -0500 Started.
+> Checking 'smbreviewer-reviewee5.jpg' (FN: 72dd93ae; FD: b429f977):
+-> No problems found.
+Thu, 26 Mar 2020 09:26:41 -0500 Finished.
+Thu, 26 Mar 2020 09:27:47 -0500 Started.
+> Checking 'smbreviewer-reviewee4.jpg' (FN: 4fbdba1e; FD: 4d2d1e0f):
+-> No problems found.
+Thu, 26 Mar 2020 09:27:47 -0500 Finished.
+Thu, 26 Mar 2020 09:29:13 -0500 Started.
+> Checking 'smbreviewer-reviewee7.jpg' (FN: 081dc0ce; FD: 85a87400):
+-> No problems found.
+Thu, 26 Mar 2020 09:29:13 -0500 Finished.
+Thu, 26 Mar 2020 09:30:19 -0500 Started.
+> Checking 'smbreviewer-reviewee8.jpg' (FN: 8a4d571f; FD: cad7b46f):
+-> No problems found.
+Thu, 26 Mar 2020 09:30:19 -0500 Finished.
+Thu, 26 Mar 2020 09:31:10 -0500 Started.
+> Checking 'smbreviews-review-nancy.jpg' (FN: 956bd066; FD: 8dd79ec6):
+-> No problems found.
+Thu, 26 Mar 2020 09:31:10 -0500 Finished.
+Thu, 26 Mar 2020 09:31:50 -0500 Started.
+> Checking 'smbreviewer-reviewee7.jpg' (FN: 081dc0ce; FD: 85a87400):
+-> No problems found.
+Thu, 26 Mar 2020 09:31:50 -0500 Finished.
+Thu, 26 Mar 2020 09:32:36 -0500 Started.
+> Checking 'smbreviewer-reviewee3.jpg' (FN: fd9d660e; FD: c7f7a12a):
+-> No problems found.
+Thu, 26 Mar 2020 09:32:36 -0500 Finished.
+Thu, 26 Mar 2020 09:33:36 -0500 Started.
+> Checking 'smbreviewer-reviewee7.jpg' (FN: 081dc0ce; FD: 85a87400):
+-> No problems found.
+Thu, 26 Mar 2020 09:33:36 -0500 Finished.
+Thu, 26 Mar 2020 09:37:16 -0500 Started.
+> Checking 'reviewicon.jpg' (FN: d99a085e; FD: 8d2f0925):
+-> No problems found.
+Thu, 26 Mar 2020 09:37:16 -0500 Finished.
+Thu, 26 Mar 2020 09:37:16 -0500 Started.
+> Checking 'smbreviewer-reviewee6.jpg' (FN: 357de97e; FD: 889d23fe):
+-> No problems found.
+Thu, 26 Mar 2020 09:37:16 -0500 Finished.
+Tue, 31 Mar 2020 13:37:15 -0500 Started.
+> Checking 'IMG-0c226a24528407e610b5a5c20ec9b4c1-V.jpg' (FN: 394fa6d7; FD: 76b954bd):
+-> No problems found.
+Tue, 31 Mar 2020 13:37:15 -0500 Finished.
+Sun, 12 Apr 2020 09:09:15 -0500 Started.
+> Checking '2016-08-30.png' (FN: a08278e9; FD: a34958be):
+-> No problems found.
+Sun, 12 Apr 2020 09:09:16 -0500 Finished.
+Tue, 23 Jun 2020 08:44:45 -0500 Started.
+> Checking 'b3ware_logo_jpg_80.jpg' (FN: 6a2de00e; FD: e7193920):
+-> No problems found.
+Tue, 23 Jun 2020 08:44:45 -0500 Finished.
+Tue, 23 Jun 2020 08:44:45 -0500 Started.
+> Checking 'b3ware_logo_jpg_80.jpg' (FN: 6a2de00e; FD: e7193920):
+-> No problems found.
+Tue, 23 Jun 2020 08:44:45 -0500 Finished.
+Tue, 30 Jun 2020 04:56:47 -0500 Started.
+> Checking 'android-chrome-256x256.png' (FN: ff973deb; FD: 6d5e20fe):
+-> No problems found.
+Tue, 30 Jun 2020 04:56:48 -0500 Finished.
+Fri, 10 Jul 2020 23:58:03 -0500 Started.
+> Checking 'sample_import_file.xls' (FN: 7a8eeef8; FD: 2fed06a6):
+-> No problems found.
+Fri, 10 Jul 2020 23:58:04 -0500 Finished.
+Fri, 31 Jul 2020 05:56:36 -0500 Started.
+> Checking 'photo.jpg' (FN: 1acfe4c4; FD: 06a476dd):
+-> No problems found.
+Fri, 31 Jul 2020 05:56:36 -0500 Finished.
+Fri, 31 Jul 2020 05:57:13 -0500 Started.
+> Checking 'photo.jpg' (FN: 1acfe4c4; FD: 06a476dd):
+-> No problems found.
+Fri, 31 Jul 2020 05:57:13 -0500 Finished.
+Fri, 31 Jul 2020 05:57:59 -0500 Started.
+> Checking 'photo.jpg' (FN: 1acfe4c4; FD: 277ba946):
+-> No problems found.
+Fri, 31 Jul 2020 05:57:59 -0500 Finished.
+Fri, 31 Jul 2020 05:58:24 -0500 Started.
+> Checking 'photo.jpg' (FN: 1acfe4c4; FD: 3e124f7a):
+-> No problems found.
+Fri, 31 Jul 2020 05:58:24 -0500 Finished.
+Wed, 28 Oct 2020 09:11:07 -0500 Started.
+> Checking 'bg4_blurred.jpg' (FN: 7c4ede58; FD: 03a38b78):
+-> No problems found.
+Wed, 28 Oct 2020 09:11:07 -0500 Finished.
+Wed, 28 Oct 2020 09:11:07 -0500 Started.
+> Checking 'bg3.jpg' (FN: 8b7164f0; FD: a39d75ab):
+-> No problems found.
+Wed, 28 Oct 2020 09:11:09 -0500 Finished.
+Thu, 29 Oct 2020 03:44:21 -0500 Started.
+> Checking 'image_2020-09-24_12-35-16.png' (FN: 060e36ad; FD: f1dcde7f):
+-> No problems found.
+Thu, 29 Oct 2020 03:44:21 -0500 Finished.
+Thu, 29 Oct 2020 03:45:36 -0500 Started.
+> Checking '12191698_1238206939538324_5809143324793792016_n.jpg' (FN: d4d3a0cb; FD: 99728329):
+-> No problems found.
+Thu, 29 Oct 2020 03:45:36 -0500 Finished.
+Thu, 29 Oct 2020 03:47:26 -0500 Started.
+> Checking 'telegram.png' (FN: 9f5263a7; FD: 9c57e5b2):
+-> No problems found.
+Thu, 29 Oct 2020 03:47:26 -0500 Finished.
+Tue, 23 Mar 2021 14:57:32 +0000 Started.
+> Checking 'Soldering iron icon 3.jpg' (FN: 2adc40c0; FD: b475f24b):
+-> No problems found.
+Tue, 23 Mar 2021 14:57:33 +0000 Finished.
+Mon, 26 Apr 2021 09:57:32 +0100 Started.
+> Checking 'favicon.png' (FN: f894a342; FD: 72e755d1):
+-> No problems found.
+Mon, 26 Apr 2021 09:57:32 +0100 Finished.
+Thu, 27 May 2021 12:09:37 +0100 Started.
+> Checking 'AMPT Logo Dark neon.png' (FN: e636e08a; FD: 7498dafb):
+-> No problems found.
+Thu, 27 May 2021 12:09:39 +0100 Finished.
+Thu, 12 Aug 2021 22:20:34 +0100 Started.
+> Checking 'blob' (FN: b07fa5cc; FD: 07489fd9):
+-> No problems found.
+Thu, 12 Aug 2021 22:20:36 +0100 Finished.
+Sat, 04 Sep 2021 02:50:42 +0100 Started.
+> Checking 'images-13.jpg' (FN: d82caa4f; FD: 394a3833):
+-> PHP chameleon attack detected!
+Sat, 04 Sep 2021 02:50:42 +0100 Finished.
+Sat, 04 Sep 2021 02:51:16 +0100 Started.
+> Checking 'images-12.jpg' (FN: e54c83ff; FD: 2bee26ee):
+-> No problems found.
+Sat, 04 Sep 2021 02:51:16 +0100 Finished.
+Mon, 13 Sep 2021 09:09:17 +0100 Started.
+> Checking '20200402173156_IMG_1560.JPG' (FN: 6263a5a3; FD: c2cd09c3):
+-> No problems found.
+Mon, 13 Sep 2021 09:09:29 +0100 Finished.
+Mon, 13 Sep 2021 15:10:17 +0100 Started.
+> Checking 'ulei.jpg' (FN: f8dbf62f; FD: c6bf5d9f):
+-> No problems found.
+Mon, 13 Sep 2021 15:10:18 +0100 Finished.
+Wed, 15 Sep 2021 06:26:48 +0100 Started.
+> Checking 'blob' (FN: b07fa5cc; FD: 6b501470):
+-> No problems found.
+Wed, 15 Sep 2021 06:26:48 +0100 Finished.
+Wed, 15 Sep 2021 06:28:18 +0100 Started.
+> Checking 'blob' (FN: b07fa5cc; FD: 6b501470):
+-> No problems found.
+Wed, 15 Sep 2021 06:28:18 +0100 Finished.
+Thu, 16 Sep 2021 16:55:34 +0100 Started.
+> Checking 'Add a heading (1).jpg' (FN: 29d203c7; FD: 4a0f1f22):
+-> No problems found.
+Thu, 16 Sep 2021 16:55:35 +0100 Finished.
+Thu, 16 Sep 2021 16:56:03 +0100 Started.
+> Checking 'Add a heading (1).jpg' (FN: 29d203c7; FD: 4a0f1f22):
+-> No problems found.
+Thu, 16 Sep 2021 16:56:03 +0100 Finished.
+Sun, 26 Sep 2021 16:50:04 +0100 Started.
+> Checking 'pexels-laura-tancredi-7078045.jpg' (FN: cc98737c; FD: a943bce2):
+-> No problems found.
+Sun, 26 Sep 2021 16:50:11 +0100 Finished.
+Sat, 02 Oct 2021 13:09:06 +0100 Started.
+> Checking '1_Z9oXz7Ctuhl3QuSPCl5yxA.png' (FN: e2eb5de2; FD: 964967f1):
+-> No problems found.
+Sat, 02 Oct 2021 13:09:06 +0100 Finished.
+Sat, 02 Oct 2021 13:09:06 +0100 Started.
+> Checking '1_Z9oXz7Ctuhl3QuSPCl5yxA.png' (FN: e2eb5de2; FD: 964967f1):
+-> No problems found.
+Sat, 02 Oct 2021 13:09:06 +0100 Finished.
+Sat, 02 Oct 2021 13:09:49 +0100 Started.
+> Checking '1_Z9oXz7Ctuhl3QuSPCl5yxA.png' (FN: e2eb5de2; FD: 964967f1):
+-> No problems found.
+Sat, 02 Oct 2021 13:09:49 +0100 Finished.
+Sat, 02 Oct 2021 13:09:49 +0100 Started.
+> Checking '1_Z9oXz7Ctuhl3QuSPCl5yxA.png' (FN: e2eb5de2; FD: 964967f1):
+-> No problems found.
+Sat, 02 Oct 2021 13:09:49 +0100 Finished.
+Sun, 03 Oct 2021 12:46:24 +0100 Started.
+> Checking 'logo_smbreviewer_new_20210202_800x400px-trans.png' (FN: 7b576afb; FD: 36be3fce):
+-> No problems found.
+Sun, 03 Oct 2021 12:46:24 +0100 Finished.
+Sun, 03 Oct 2021 12:46:47 +0100 Started.
+> Checking 'logo_smbreviewer_new_20210202_800x400px-trans.png' (FN: 7b576afb; FD: 36be3fce):
+-> No problems found.
+Sun, 03 Oct 2021 12:46:47 +0100 Finished.
+Sun, 03 Oct 2021 20:33:03 +0100 Started.
+> Checking 'logo_smbreviewer_new_20210202_800x400px-trans.png' (FN: 7b576afb; FD: 36be3fce):
+-> No problems found.
+Sun, 03 Oct 2021 20:33:03 +0100 Finished.
+Sun, 03 Oct 2021 20:35:00 +0100 Started.
+> Checking 'Izrezak.JPG' (FN: 6b068ae1; FD: 597f79bb):
+-> No problems found.
+Sun, 03 Oct 2021 20:35:00 +0100 Finished.
+Sun, 03 Oct 2021 20:35:34 +0100 Started.
+> Checking 'Izrezak.JPG' (FN: 6b068ae1; FD: 13bbe1d6):
+-> No problems found.
+Sun, 03 Oct 2021 20:35:35 +0100 Finished.
+Tue, 05 Oct 2021 07:34:00 +0100 Started.
+> Checking 'JPEG_20200221_161334_4798136474482229274.jpg' (FN: 375d8bc4):
+-> Filesize limit exceeded.
+Tue, 05 Oct 2021 07:34:00 +0100 Finished.
+Tue, 05 Oct 2021 07:35:55 +0100 Started.
+> Checking 'Screenshot 2021-10-05 at 08.35.31.png' (FN: f1249f55; FD: 1e488fab):
+-> No problems found.
+Tue, 05 Oct 2021 07:35:56 +0100 Finished.
+Wed, 06 Oct 2021 05:25:16 +0100 Started.
+> Checking 'ace.js' (FN: c4cdbfb1):
+-> Filetype blacklisted.
+Wed, 06 Oct 2021 05:25:16 +0100 Finished.
+Wed, 06 Oct 2021 05:27:06 +0100 Started.
+> Checking 'css-org.css' (FN: c3f66b85; FD: 69c69044):
+-> No problems found.
+Wed, 06 Oct 2021 05:27:06 +0100 Finished.
+Wed, 13 Oct 2021 13:22:54 +0100 Started.
+> Checking '16in-swedish-design1.jpg' (FN: 9c9f3b9c; FD: 4db963ab):
+-> No problems found.
+Wed, 13 Oct 2021 13:22:54 +0100 Finished.
+Wed, 13 Oct 2021 13:23:42 +0100 Started.
+> Checking 'smbfission - business verification.jpeg' (FN: 006f0629; FD: 0090698f):
+-> No problems found.
+Wed, 13 Oct 2021 13:23:42 +0100 Finished.
+Wed, 13 Oct 2021 13:48:47 +0100 Started.
+> Checking 'toilet-paper-ad.jpeg' (FN: 9dd0fd87; FD: cbfea68c):
+-> No problems found.
+Wed, 13 Oct 2021 13:48:47 +0100 Finished.
+Tue, 16 Nov 2021 09:57:40 +0000 Started.
+> Checking 'graphicscrate-plant-pine-texture-08_prev_sm.png' (FN: 1d732f6d; FD: 12675c5b):
+-> No problems found.
+Tue, 16 Nov 2021 09:57:41 +0000 Finished.

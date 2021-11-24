@@ -1,0 +1,167 @@
+/* Add here all your CSS customizations */
+
+
+body .btn-link {
+	border-color: #0127cf;
+	background-color: #0127cf;
+	border-color: #0127cf #0127cf #31b0d5;
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+body .btn-link:hover {
+	border-color: #4768fb;
+	background-color: #4768fb;
+	color: white;
+}
+
+body .btn-link:active, body .btn-link:focus {
+	border-color: #46b8da;
+	background-color: #46b8da;
+	color: white;
+}
+
+body .btn-link.dropdown-toggle {
+	border-left-color: #46b8da;
+}
+
+body .btn-link[disabled] {
+	border-color: #b0e1ef;
+	background-color: #b0e1ef;
+}
+
+body .btn-prev {
+	border-color: #40c649;
+	background-color: #40c649;
+	border-color: #40c649 #40c649 #31b0d5;
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+body .btn-prev:hover {
+	border-color: #75d67c;
+	background-color: #75d67c;
+	color: white;
+}
+
+body .btn-prev:active, body .btn-prev:focus {
+	border-color: #75d67c;
+	background-color: #75d67c;
+	color: white;
+}
+
+body .btn-prev.dropdown-toggle {
+	border-left-color: #46b8da;
+}
+
+body .btn-prev[disabled] {
+	border-color: #b0e1ef;
+	background-color: #b0e1ef;
+}
+
+
+body .btn-code {
+	border-color: #632ad7;
+	background-color: #632ad7;
+	border-color: #632ad7 #632ad7 #632ad7;
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+body .btn-code:hover {
+	border-color: #855bda;
+	background-color: #855bda;
+	color: white;
+}
+
+body .btn-code:active, body .btn-code:focus {
+	border-color: #855bda;
+	background-color: #855bda;
+	color: white;
+}
+
+body .btn-code.dropdown-toggle {
+	border-left-color: #46b8da;
+}
+
+body .btn-code[disabled] {
+	border-color: #b0e1ef;
+	background-color: #b0e1ef;
+}
+
+
+body .btn-clone {
+	border-color: #cf4908;
+	background-color: #cf4908;
+	border-color: #cf4908 #cf4908 #cf4908;
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+body .btn-clone:hover {
+	border-color: #d27549;
+	background-color: #d27549;
+	color: white;
+}
+
+body .btn-clone:active, body .btn-clone:focus {
+	border-color: #d27549;
+	background-color: #d27549;
+	color: white;
+}
+
+body .btn-clone.dropdown-toggle {
+	border-left-color: #46b8da;
+}
+
+body .btn-clone[disabled] {
+	border-color: #b0e1ef;
+	background-color: #b0e1ef;
+}
+
+.table .action-buttons .btn {
+  width: 25px;
+  color: #fff;
+
+}
+
+#capture_reviews .slider.slider-horizontal{
+  width:100%;
+}
+
+.alias {cursor: alias;}
+.all-scroll {cursor: all-scroll;}
+.auto {cursor: auto;}
+.cell {cursor: cell;}
+.context-menu {cursor: context-menu;}
+.col-resize {cursor: col-resize;}
+.copy {cursor: copy;}
+.crosshair {cursor: crosshair;}
+.default {cursor: default;}
+.e-resize {cursor: e-resize;}
+.ew-resize {cursor: ew-resize;}
+.grab {cursor: -webkit-grab; cursor: grab;}
+.grabbing {cursor: -webkit-grabbing; cursor: grabbing;}
+.help {cursor: help;}
+.move {cursor: move;}
+.n-resize {cursor: n-resize;}
+.ne-resize {cursor: ne-resize;}
+.nesw-resize {cursor: nesw-resize;}
+.ns-resize {cursor: ns-resize;}
+.nw-resize {cursor: nw-resize;}
+.nwse-resize {cursor: nwse-resize;}
+.no-drop {cursor: no-drop;}
+.none {cursor: none;}
+.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}
+.progress {cursor: progress;}
+.row-resize {cursor: row-resize;}
+.s-resize {cursor: s-resize;}
+.se-resize {cursor: se-resize;}
+.sw-resize {cursor: sw-resize;}
+.text {cursor: text;}
+.url {cursor: url(myBall.cur),auto;}
+.w-resize {cursor: w-resize;}
+.wait {cursor: wait;}
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}

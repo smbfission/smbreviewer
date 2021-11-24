@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <script src="//sdk.twilio.com/js/video/releases/2.14.0/twilio-video.min.js"></script>
+
+    <script type="text/javascript">
+
+    const Video = Twilio.Video;
+$TOKEN='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzk1NjdmYzRmYWI4YjAwMTc2YzNmZGY1N2NlNmYyMmVhLTE2MjEyNDcwODIiLCJpc3MiOiJTSzk1NjdmYzRmYWI4YjAwMTc2YzNmZGY1N2NlNmYyMmVhIiwic3ViIjoiQUNmNjY4ZGM1NDNmNWZkYjJmNDk1OWM5ZjliZmMzZWE2ZSIsImV4cCI6MTYyMTI1MDY4MiwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiU01CcmV2aWV3ZXIiLCJ2aWRlbyI6e319fQ.GLaZoS1OBGHG2g0h_p50tVTUuPkEifGHNgKAcTCpRac';
+ Video.connect($TOKEN);
+    // Video.connect($TOKEN, { name: 'room-name' }).then(room => {
+    //   console.log('Connected to Room "%s"', room.name);
+    //
+    //   room.participants.forEach(participantConnected);
+    //   room.on('participantConnected', participantConnected);
+    //
+    //   room.on('participantDisconnected', participantDisconnected);
+    //   room.once('disconnected', error => room.participants.forEach(participantDisconnected));
+    // });
+    //
+    // function participantConnected(participant) {
+    //   console.log('Participant "%s" connected', participant.identity);
+    //
+    //   const div = document.createElement('div');
+    //   div.id = participant.sid;
+    //   div.innerText = participant.identity;
+    //
+    //   participant.on('trackSubscribed', track => trackSubscribed(div, track));
+    //   participant.on('trackUnsubscribed', trackUnsubscribed);
+    //
+    //   participant.tracks.forEach(publication => {
+    //     if (publication.isSubscribed) {
+    //       trackSubscribed(div, publication.track);
+    //     }
+    //   });
+    //
+    //   document.body.appendChild(div);
+    // }
+    //
+    // function participantDisconnected(participant) {
+    //   console.log('Participant "%s" disconnected', participant.identity);
+    //   document.getElementById(participant.sid).remove();
+    // }
+    //
+    // function trackSubscribed(div, track) {
+    //   div.appendChild(track.attach());
+    // }
+    //
+    // function trackUnsubscribed(track) {
+    //   track.detach().forEach(element => element.remove());
+    // }
+
+    </script>
+  </head>
+  <body>
+
+  </body>
+</html>

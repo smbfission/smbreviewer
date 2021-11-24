@@ -1,0 +1,30 @@
+[17-Apr-2020 06:43:03 America/Chicago] Array
+(
+    [sheet_name] => Worksheet
+)
+
+[17-Apr-2020 06:44:12 America/Chicago] Array
+(
+    [sheet_name] => Worksheet
+)
+
+[17-Apr-2020 06:44:37 America/Chicago] Array
+(
+    [sheet_name] => Worksheet
+    [options] => options
+)
+
+[17-Apr-2020 06:47:26 America/Chicago] Array
+(
+    [sheet_name] => Worksheet
+)
+
+[17-Apr-2020 06:47:48 America/Chicago] Array
+(
+    [sheet_name] => Worksheet
+)
+
+[17-Apr-2020 06:53:18 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ')' in /home/futjzmvq/reviews.smbreviewer.com/core/tests/dragdrop/index.php on line 66
+[17-Apr-2020 07:13:14 America/Chicago] PHP Warning:  array_splice() expects parameter 2 to be integer, string given in /home/futjzmvq/reviews.smbreviewer.com/core/tests/dragdrop/index.php on line 61
+[17-Apr-2020 07:13:26 America/Chicago] PHP Warning:  array_splice() expects parameter 2 to be integer, string given in /home/futjzmvq/reviews.smbreviewer.com/core/tests/dragdrop/index.php on line 61
+[17-Apr-2020 08:11:22 America/Chicago] PHP Notice:  Undefined variable: spreadsheets in /home/futjzmvq/reviews.smbreviewer.com/core/tests/dragdrop/index.php on line 81

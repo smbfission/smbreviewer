@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- top black background -->
+      <div class="empty-div--dark"></div>
+
+      <!-- full screen wrapper -->
+      <div class="wrapper">
+        <!-- title and subtitle -->
+        <aside class="aside">
+          <div class="title">
+            <h1>leave us a review</h1>
+          </div>
+          <div class="subtitle">
+            <p>
+              Please describe in detail your experience with our organization,
+              thanks so much!
+            </p>
+          </div>
+        </aside>
+
+        <!-- main form container -->
+        <main class="main">
+          <!-- logo -->
+          <img src="logo.png" alt="" class="logo" />
+
+          <!-- form  -->
+          <form action="" class="form">
+            <!-- star rating -->
+            <div class="form__item form__star">
+              <label class="form__label" for="form-stars">Your Rating</label>
+              <div class="star" id="form-stars">
+                <label>
+                  <input type="radio" name="stars" value="1" />
+                  <span class="star__icon">★</span>
+                </label>
+                <label>
+                  <input type="radio" name="stars" value="2" />
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                </label>
+                <label>
+                  <input type="radio" name="stars" value="3" />
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                </label>
+                <label>
+                  <input type="radio" name="stars" value="4" />
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                </label>
+                <label>
+                  <input type="radio" name="stars" value="5" />
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                  <span class="star__icon">★</span>
+                </label>
+              </div>
+            </div>
+
+            <!-- name -->
+            <div class="form__item">
+              <label for="form-name" class="form__label">Your Name</label>
+              <input
+                type="text"
+                class="form__input"
+                name="name"
+                id="form-name"
+              />
+              <span>or</span>
+              <button class="btn">Verify with Facebook</button>
+            </div>
+
+            <!-- photo -->
+            <div class="form__item">
+              <label for="form-image" class="form__label">Your Photo</label>
+              <div id="form-image">
+                <span>Drag and Drop Here</span>
+                <span>or</span>
+                <button class="btn btn--outline">Browse Files</button>
+              </div>
+            </div>
+
+            <!-- record -->
+            <div class="form__item form__record">
+              <label for="form-image" class="form__label"
+                >Record Your Video
+                <span id="">(best used on desktop)</span>
+              </label>
+              <button id="record-btn">
+                <div class="dot"></div>
+                Click to record
+              </button>
+            </div>
+
+            <!-- review -->
+            <div class="form__item">
+              <label for="form-review" class="form__label">Your Review</label>
+              <textarea
+                type="text"
+                class="form__input"
+                name="review"
+                id="form-review"
+                rows="10"
+              ></textarea>
+            </div>
+
+            <!-- email -->
+            <div class="form__item">
+              <label for="form-email" class="form__label">Your Email</label>
+              <input
+                type="email"
+                class="form__input"
+                name="email"
+                id="form-email"
+              />
+              <span
+                >As a thank you for your time, we will give you 25% off your
+                next order, please list your email</span
+              >
+            </div>
+
+            <!-- submit button -->
+            <button class="btn btn--main">submit review</button>
+          </form>
+        </main>
+      </div>
+    </div>
+  </body>
+</html>

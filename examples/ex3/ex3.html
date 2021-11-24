@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+
+
+</head>
+ 
+  <body>
+	<div class ="container feedback-form">
+        
+        
+           <form method="POST">
+			<h3>Drop Us a Feedback</h3><br>
+            <h3>We'd love to hear your thoughts and experience with your service. Please share your experience with us.</h3>
+            <div class="form-group"></div>
+           
+			<div class="row">
+
+		    <div class="col-md-6">
+                
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Your Name">
+                 </div>
+                 
+                 <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Your Mobile Number">
+                 </div>
+                 <div class="form-group">
+                    <p>Did You Get Your Answer?</p>
+                    Yes<input type="radio" name="1">
+                    No<input type="radio" name="1">
+                 </div>
+             
+                 <div class="form-group">
+                <label for="name">Your Image
+                       
+                </label>
+                    </div>
+                  <div class="drag-container" >
+                     
+                    <input id="file" type="file" name="file" class="hidden" accept=".jpg, .jpeg, .png" />
+                    <div class="upload-area text-center"  id="uploadfile">
+                          
+                    </div>
+                  </div>
+                  &nbsp;
+                  &nbsp;
+                  &nbsp;
+                 <textarea name="txtMsg" class="form-control" placeholder="Your Message Or Suggetion"
+                 style="width: 600px;height:150px;margin-bottom:8px;"></textarea>
+                 <div class="form-group">
+                    <input type="submit" name="btnsubmit" class="btnsubmit" value="Submit" style="outline:none;">
+                </div>
+            </div>
+               <div class="col-md-6">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Your Email">
+                    <p>Are You Satisfied With Our Services?</p>
+                    Yes<input type="radio" name="2">
+                    No<input type="radio" name="2">
+                 </div>
+                 <p>How many Stars Do you Want to give us</p>
+                 <div class="stars"  data-toggle="popover" data-placement="bottom">
+                    <input class="star star-5" id="review_form-star-5" type="radio" name="star" value="5"/>
+                    <label class="star star-5" for="review_form-star-5" ></label>
+                    <input class="star star-4" id="review_form-star-4" type="radio" name="star" value="4"/>
+                    <label class="star star-4" for="review_form-star-4"></label>
+                    <input class="star star-3" id="review_form-star-3" type="radio" name="star" value="3"/>
+                    <label class="star star-3" for="review_form-star-3"></label>
+                    <input class="star star-2" id="review_form-star-2" type="radio" name="star" value="2"/>
+                    <label class="star star-2" for="review_form-star-2"></label>
+                    <input class="star star-1" id="review_form-star-1" type="radio" name="star" value="1"/>
+                    <label class="star star-1" for="review_form-star-1"></label>
+              </div>
+              &nbsp;<br>
+              <!-- Loom implementation -->
+              <div class="form-group <?=($data['type']=='text' || $canRecordReview == false? 'hidden':'')?>" id="loom-container">
+                <label for="loom-video-url">Record Your Review <i style="font-size: 10pt; font-weight: 100">(best used on desktop)</i></label>
+                <input type="hidden" id="loom-video-url" name="loomUrl" value="">
+                <button type="button" id="loom-record-button"><i class="fa fa-circle" aria-hidden="true"></i>Click to record</button>
+                <div id="embed-container" style="margin-top: 20px"></div>
+            </div>
+             <!-- starting  step 3 -->
+
+             <div class=" review-container-step-3">
+
+
+                <div class="col-12">
+                     <h1   style="font-weight:bold;" class="text-center primary-font-color primary-font-family"><?=$data['name_of_business']?></h1>
+                </div>
+                <div class="col-12">
+                   <h2  style="font-weight:bold;" class="text-center primary-font-color primary-font-family"><h2>Will You Do Us a Favor?</h2></h2>
+                </div>
+                <div  class="secondary-font-color secondary-font-family col-12">
+                    <span class="secondary-font-color secondary-font-family">
+                        <h4>
+                             <b><span style="text-decoration:underline;font-weight:bold;"></span>Your review has been copied to your clipboard</b>, 
+                             if you would be graciously willing, could you share your experience with other people like yourself by pasting your review in the review directory listed below? It's a great way to help other people like yourself and we would greatly 
+                             appreciate it!
+						</h4>
+					</span>
+
+
+		</form>
+
+  	</div>
+      
+
+     
+      
+
+        
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,218 @@
+a{color:#ff761d;text-decoration:none}
+ul{padding-left:18px}
+a:hover,a:focus{color:#0771bf}
+a:hover{text-decoration:underline}
+h3{font-weight:400;line-height:1.1;margin:22px 0 11px;font-size:28px}
+body{overflow:hidden;overflow-y:auto}
+table{border-spacing:0}
+.disabled{opacity:.4!important}
+.hide{display:none!important}
+.lazy-image-load{opacity:0}
+.lazy-image-loaded{transition:opacity 1s ease-out;opacity:1}
+/*.container{margin:0 auto;padding:0 15px;max-width:1200px}
+.row{margin:0 auto;clear:both}
+.row:after{content:'';display:block;height:0;clear:both;width:100%}
+.col-md-4{width:33.33333333%}
+.col-md-8{width:66.66666667%}
+.col-md-12{width:100%}
+.col-md-4,.col-md-8,.col-md-12{position:relative;min-height:1px;padding:0 15px;float:left}*/
+.col-md-4,.col-md-8,.col-md-12{position:relative}
+img{max-width:100%}
+@media(max-width:648px) {
+.container{padding:0 8px}
+}
+.sell-help{padding-bottom:12px;margin:-24px 8px 0}
+.sell-help h3{padding:14px;border-top:1px solid #ececec;font-weight:400;font-size:22px;border-bottom:1px solid #efefef;border-top:1px solid #ececec;text-align:center;letter-spacing:2px}
+.modern-block{position:relative;margin:20px auto;z-index:20}
+.modern-image__area-device,.modern-image__area-iphone{text-align:center;margin-top:0;box-shadow:0 0 40px #ccc;border-radius:20px;padding:20px;height:340px}
+.col-md-4.modern-image{padding:0}
+.modern-image__area-device img,.modern-image__area-iphone img{display:none!important;max-height:100%;width:auto}
+.modern-image__area-device img.selected,.modern-image__area-iphone img.selected{display:inline-block!important}
+#device-prop-area{position:relative}
+.modern-text{padding-left:45px}
+.modern-block__row{border:1px solid #0e9ad7;box-shadow:0 0 22px rgba(0,0,0,.5);border-radius:4px;padding:12px;z-index:1;position:relative}
+.modern-text__row,.modern-block__row.disabled,.modern-text__row.modern-block__row.selected,.modern-text__row.device-base-row,.modern-text__row.device-base-row.disabled{min-height:44px;margin:8px 0;position:relative}
+.modern-text__area,.modern-text__content,.modern-block__selected{display:inline-block;vertical-align:top}
+.modern-text__row .modern-text__num{overflow:hidden}
+.modern-text__num{border:2px solid #dcdcdc;border-radius:30px;display:inline-block;font-weight:700;font-size:17px;margin-right:20px;position:absolute;width:38px;height:38px;text-align:center;z-index:1;background:#fff}
+.select-area-row,.select-area-row:hover{color:#222;padding:6px 20px;display:block;text-decoration:none}
+.select-area-row:hover{background:#f5f5f5}
+.select-area__title span.select-arrow{display:inline-block;width:20px;position:absolute;top:8px;right:0}
+.select-area__title span.select-arrow:before{content:'';position:absolute;right:14px;width:10px;height:1px;background:#9e9e9e;transform:rotate(-50deg);top:21px}
+.select-area__title span.select-arrow:after{content:'';position:absolute;right:20px;width:10px;height:1px;background:#9e9e9e;transform:rotate(50deg);top:21px}
+.modern-text__num b{margin-top:6px;display:block}
+.modern-text__row .modern-selected,.modern-text__row.selected .modern-num{display:none}
+.modern-text__num b{margin-top:6px;display:block}
+.modern-text__title{font-size:18px;vertical-align:top;position:relative;padding:0 0 0 50px;display:inline;top:1px;line-height:2.2}
+.icon-help{width:19px;height:18px;background:#1b9af7;display:inline-block;text-align:center;color:#fff;border-radius:20px;cursor:pointer}
+.icon-help:before{content:"?";font-size:14px;font-weight:700}
+.modern-block__content{padding:10px 0 0 60px}
+.modern-block .modern-block__content a,.modern-block #question span{min-width:144px;cursor:pointer;text-decoration:none}
+.modern-text__row.selected .select-area__title,.modern-block__selected,.modern-block__content a,#question span,.condition-row{background:#f3f3f3;box-shadow:none;border-radius:8px;padding:8px 30px 6px}
+.modern-block__content a,#question span{display:inline-block;margin-right:10px;color:#222;text-align:center;margin-bottom:10px}
+.wearable-section #generations a,.wearable-section #models a,.tablet-section #types a,.macbook-section #device a,.appledisplay-section #models a,.imac-section #models a,.ipad-section #device a,.appletv-section #generations a{padding:72px 6px 10px;text-transform:uppercase;font-size:10px;background-position:2px 10px;background-size:initial;background-repeat:no-repeat;width:114px;min-width:114px;vertical-align:top;letter-spacing:0}
+.appledisplay-section #models a{background-position:2px 14px}
+.appledisplay-section #models a.appledisplay-thunderbolt{background-position:-110px 14px}
+.wearable-section #models a{background-position:2px 10px}
+.wearable-section #generations a{background-position:2px 10px}
+.wearable-section #generations a.apple-watch-original{background-position:2px 10px}
+.wearable-section #generations a.series-1{background-position:-110px 10px}
+.wearable-section #generations a.series-2{background-position:-220px 10px}
+.wearable-section #generations a.series-3{background-position:-330px 10px}
+.wearable-section #models a.apple-watch-sport,.wearable-section #models a.apple-watch-series-2-nike,.wearable-section #models a.apple-watch-series-3-nike{background-position:-216px 10px}
+.wearable-section #models a.apple-watch-hermes,.wearable-section #models a.apple-watch-series-2-hermes,.wearable-section #models a.apple-watch-series-3-hermes{background-position:-324px 10px}
+.wearable-section #models a.apple-watch-edition,.wearable-section #models a.apple-watch-series-2-edition,.wearable-section #models a.apple-watch-series-3-edition{background-position:-436px 10px}
+.wearable-section #models a.apple-watch-series-2-stainless-steel,.wearable-section #models a.apple-watch-series-3-stainless-steel{background-position:-108px 10px}
+.tablet-section #types a{width:114px;min-width:114px;background-position:30px 8px}
+.tablet-section #types a.microsoft-surface{background-position:18px 12px}
+.tablet-section #types a.microsoft-surface-laptop{background-position:-100px 12px}
+.tablet-section #types a.microsoft-surface-studio{background-position:-219px 12px}
+.tablet-section #types a.microsoft-xbox{background-position:-336px 12px}
+.tablet-section #types a.microsoft-hololeans{background-position:-448px 14px}
+.macbook-section #device a{background-position:2px 14px}
+.macbook-section #device a.macbook-macbook-air{background-position:-106px 14px}
+.macbook-section #device a.macbook-macbook-pro{background-position:-220px 14px}
+.ipad-section #device a.ipad-ipad-air{background-position:-330px 10px}
+.ipad-section #device a.ipad-ipad{background-position:-110px 10px}
+.ipad-section #device a.ipad-ipad-mini{background-position:-220px 10px}
+.imac-section #models a{background-position:2px 10px}
+.imac-section #models .imac-imac-21-5{background-position:-110px 10px}
+.imac-section #models .imac-imac-24{background-position:-220px 10px}
+.imac-section #models .imac-imac-27,.imac-section #models .imac-imac-pro-27{background-position:-330px 10px}
+.modern-text__help{background:#e2e2e2;color:#000;vertical-align:top;position:relative;top:8px;width:22px;height:22px;line-height:1.4;margin-left:10px;z-index:20}
+.modern-block__selected{position:relative;display:none}
+.select-area__title,.modern-block__selected{min-width:156px;max-width:220px;text-align:center;min-height:40px}
+.modern-text__row.disabled .modern-text__help,.modern-text__row .modern-disabled{display:none}
+.modern-block__content a:hover,#question span:hover{background:#e6e6e6}
+.modern-block__row.disabled,.modern-text__row.modern-block__row.selected{border:1px solid transparent;padding:0 0 0 10px;margin:8px auto;box-shadow:none}
+.modern-text__row{padding-left:10px}
+.modern-text__row.selected .modern-text__num{background:#0e9ad7;border:2px solid;color:#fff;font-size:26px}
+.modern-text__row.selected .modern-text__num b{font-weight:400;left:-2px;top:-2px;position:relative;background:#0e9ad7;width:38px;height:38px;border-radius:20px;cursor:pointer;border:2px solid;box-shadow:0 0;margin:0}
+.modern-selected:before{content:'';position:absolute;right:8px;width:15px;height:2px;background:#fff;transform:rotate(-50deg);top:18px}
+.modern-selected:after{content:'';position:absolute;right:18px;width:8px;height:2px;background:#fff;transform:rotate(50deg);top:20px}
+.modern-text__row.selected .modern-selected{display:block}
+.modern-text__row.modern-block__row.selected .modern-block__selected{display:inline-block;cursor:pointer}
+.modern-text__row.selected .select-area__title:after,.modern-text__row.selected .modern-block__selected:after{content:'';transform:rotate(0);right:-12px;background:#f3f3f3 url(https://d2um6umu4gwssp.cloudfront.net/images/logo_sprite.png) no-repeat -114px -63px;top:-12px;position:absolute;border-radius:50px;width:34px;height:34px;border:2px solid #0e9ad7}
+.modern-text__row.disabled .modern-text__content{display:none}
+.price-area,.mobile-block,.modern-text__row.device-base-row.selected span.select-arrow,.modern-block__row.disabled .modern-block__content,.modern-text__row.modern-block__row.selected .modern-block__content,.modern-text__row.selected .modern-text__help{display:none}
+.modern .modern-text__row.disabled{background:0;opacity:1}
+.modern-text__row.modern-block__row.disabled .modern-text__area{white-space:nowrap}
+.modern-text__area{width:340px;padding-right:20px;white-space:normal}
+.modern-text__row.modern-block__row.opened .modern-text__area,#questions .modern-text__row.opened span.modern-text__area,.question-base-row.opened span.modern-text__area{width:auto}
+.modern-text__row.modern-block__row.opened{z-index:20}
+.modern-text__row.selected .select-area__title:hover,.modern-text__row.selected .modern-block__selected:hover,.modern-text__row.selected .modern-block__selected:hover:after{background-color:#e6e6e6}
+.splitter.storage-name{height:auto}
+img.macmini-image.selected{padding-top:116px}
+.after-content{margin:34px auto 54px;position:relative}
+.upc-big.trade-block .after-content{margin:50px auto;position:relative}
+.container.base-content.igo_frontend_iphone_model{margin-bottom:0}
+.select-area{position:relative}
+.select-area__title{border:1px solid #0e9ad7;box-shadow:0 0 7px rgba(0,0,0,.2);background:0;padding:10px 20px 8px;border-radius:20px;margin:0;cursor:pointer;position:relative}
+.modern-load:after{content:'';position:absolute;width:100%;height:100%;background:rgba(255,255,255,0.5);left:0;top:0;z-index:20}
+.select-area .select-area__list{display:none;cursor:pointer;position:absolute;top:-10px;border:1px solid #0e9ad7;border-radius:20px;box-shadow:0 0 7px rgba(0,0,0,.2);background:#fff;z-index:20;white-space:nowrap;overflow:hidden;min-width:200px;min-height:52px}
+.select-area .iphone-select-area__list{width:482px;white-space:normal;left:-134px}
+.iphone-select-area__list a,.iphone-select-area__list a:hover{display:inline-block;width:160px}
+.opened .select-area__title{padding:18px 130px 16px 24px;position:absolute;top:-8px;border-radius:30px;z-index:2;width:140px}
+.modern-block__content{padding:10px 0 0 50px}
+.block-condition{width:330px;padding-right:26px}
+.condition-row{margin-right:8px;margin-bottom:10px;display:inline-block;position:relative;cursor:pointer}
+.condition-block{z-index:10;overflow:hidden}
+.condition-block-row{display:none;min-height:160px}
+.condition-block-row.selected{display:block}
+.block-price{position:absolute;right:0;top:0;width:300px;height:400px;border-left:1px solid #ccc;padding:20px;text-align:center}
+.device-name{padding:2px 0 0}
+.price-area.selected{display:block}
+.device-price{font-size:50px;font-weight:700;padding:10px 0}
+.condition-row:hover,.condition-row.selected{border-radius:8px 8px 0 0;background:#e0e0e0}
+.device-get-price .get-price{display:inline-block;background:#0e9ad7;cursor:pointer;padding:16px 20px 14px;box-shadow:0 0 7px rgba(0,0,0,.2);border-radius:30px;color:#fff;font-weight:700;font-size:20px}
+.device-get-price .get-price:hover{background:#0e9ad7;box-shadow:2px 0 27px #0e9ad7}
+.condition-row.selected:before{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #7de302;content:'';position:absolute;bottom:-5px;left:45%}
+.condition-row.selected:after{position:absolute;height:4px;background:#0e9ad7;width:100%;bottom:0;content:'';left:0}
+.condition-row{padding:8px 12px}
+.condition-row-small .condition-row{padding:8px 6px 6px}
+.animate-shadow{animation:shadowAnimate 4s linear infinite}
+@keyframes shadowAnimate {
+0%,25%{box-shadow:0 0 22px 0 rgba(0,0,0,.5)}
+30%{box-shadow:0 0 0 8px rgba(0,0,0,.5)}
+40%,100%{box-shadow:0 0 22px 0 rgba(0,0,0,.5)}
+}
+.modern-block__content a.carrier-row{min-width:100px;width:100px;padding:60px 0 10px;background-position:100px;background-repeat:no-repeat;vertical-align:top}
+.modern-block__content a.carrier-row.carrier-at-t{background-position:25px 6px}
+.modern-block__content a.carrier-row.carrier-verizon{background-position:-46px 10px}
+.modern-block__content a.carrier-row.carrier-t-mobile{background-position:-122px 8px}
+.modern-block__content a.carrier-row.carrier-sprint{background-position:-198px 8px}
+.modern-block__content a.carrier-row.carrier-unlocked,.modern-block__content a.carrier-row.carrier-wifi-cellular-any-carriers,.modern-block__content a.carrier-row.carrier-wi-fi-only{background-position:-274px 10px}
+@media(max-width:1200px) {
+.select-area .iphone-select-area__list{left:-240px}
+.block-condition{width:100%}
+.block-price{position:relative;width:100%;height:auto;border:0;padding:0;text-align:left}
+.condition-block-row{padding-bottom:20px;min-height:10px}
+}
+@media(max-width:1040px) {
+.select-area__title,.modern-block__selected{max-width:190px}
+}
+@media(max-width:990px) {
+.modern-text__area{width:260px}
+}
+@media(max-width:850px) {
+.modern-text__area{width:200px}
+}
+@media(max-width:780px) {
+.col-md-4.modern-image{float:none;clear:both;width:100%;max-width:400px;margin:0 auto}
+.col-md-8.modern-text{clear:both;float:none;width:100%;padding-top:34px}
+.modern-text__area{width:320px}
+}
+@media(max-width:648px) {
+.select-area__title span.select-arrow,.select-area__title,.modern-image,.device-sell-title,.modern-text__row.selected .modern-text__title{display:none}
+.select-area .iphone-select-area__list{width:304px}
+.iphone-select-area__list a,.iphone-select-area__list a:hover{width:150px;font-size:15px}
+.select-area .iphone-select-area__list{left:0}
+.modern-text__title{top:3px;font-size:16px;padding:0 0 0 46px}
+.modern-text__row.opened .modern-text__title{padding:0 0 0 30px}
+.modern .modern-text__row.modern-block__row,.modern-text__row{margin:6px 0;padding:0;min-height:40px}
+.modern-text__row span.modern-text__area{padding:0 16px}
+.modern-block__content{padding:14px 14px 0}
+.modern-text__row.selected .select-area__title,.modern-text__row.selected .modern-block__selected{max-width:100%}
+.modern-text__row.selected .select-area__title,.modern-text__row.modern-block__row.selected .modern-block__selected{display:block;border:0;background:0;padding:8px 14px 6px 0}
+.modern-text__row.modern-block__row.selected .modern-block__selected{height:38px;overflow:hidden;text-align:right;padding-right:44px}
+.modern-text__row.selected .select-area__title{text-align:right;padding-right:44px}
+.mobile-block{display:inline-block;padding-right:4px;line-height:2;margin-top:-4px}
+.modern-text__row span.modern-text__area,.col-md-8.modern-text,.col-md-12.modern{padding:0}
+.modern .modern-text__row,.modern .modern-text__row.disabled{background:#ececec;border-radius:22px}
+.modern .modern-text__row.disabled{overflow:hidden}
+.modern-text__row.modern-block__row.opened{background:#fff}
+.modern-text__area{position:absolute}
+.modern-text__row.opened .modern-text__area{position:relative;display:block;padding:0 14px}
+.modern-text__row.selected .modern-text__num,.modern-text__row.selected .modern-text__num b{border:2px solid}
+.modern-text__row.modern-block__row.opened .modern-block__content{padding:12px 14px 4px}
+.modern-text__row.selected .select-area__title:after,.modern-text__row.selected .modern-block__selected:after{top:0;right:0}
+.modern-block .modern-block__content a,.modern-block #question span{min-width:100px}
+.modern-text__content{display:block}
+.modern .modern-text__row.device-base-row{min-height:38px}
+.sell-help h3{font-size:14px;padding:14px 8px;margin:0}
+.sell-help{padding:8px 0;margin:0}
+.modern-block{margin:0}
+.breadcrumb{padding:0 4px 4px}
+.breadcrumb-area .col-md-12{padding:0}
+.modern-text__row.condition-block.opened .modern-block__content{padding:8px 14px 0 24px}
+.condition-row{background:0;border:0;font-size:15px;padding:8px}
+.condition-row-small .condition-row{padding:6px 2px;background:0;border:0;font-size:15px}
+.condition-row.selected{background:#f3f3f3;border:1px solid #d4d4d4}
+.tooltip{left:0!important;top:auto!important;margin:8px 0 0!important;padding:0!important}
+.condition-block-row{padding-left:16px}
+.modern-text__num{left:0}
+.select-area{position:absolute;height:100%;width:100%;top:0;left:0}
+.modern-text__row.device-base-row.opened .select-area__title span{display:none}
+.modern-text__row.device-base-row.opened .select-area__title{border:0;box-shadow:none;position:absolute;left:0;top:0;height:38px;width:100%;display:block;padding:0}
+.modern-text__area{width:304px}
+.trade-block-content .cat-backgroud{display:none}
+.trade-block-content .cat-text{width:100%}
+body .animated{animation-duration:0}
+}
+.animated{animation-duration:1s;animation-fill-mode:both}
+.slideInUp{animation-name:slideInUp}
+@keyframes slideInUp {
+from{opacity:0;transform:translate3d(0,100%,0);visibility:visible}
+to{opacity:1;transform:translate3d(0,0,0)}
+}
+.modern-loaded .animated{animation-duration:0}
